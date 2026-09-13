@@ -4,6 +4,7 @@ A structured collection of Java programs, practice exercises, and examples devel
 **Topics Covered**
 - Java Fundamentals
 - Data Types
+- Type casting
 
 **Objective**
  The primary objective of this repository is to build a strong foundation in Java programming, improve problem-solving skills, and maintain a structured record of   my learning and practice.
